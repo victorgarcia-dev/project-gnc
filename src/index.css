@@ -1,17 +1,1 @@
-:root {
-  --color-yellow: #d2a620;
-  --color-black: #000000;
-  --color-white: #e3e3e3;
-}
 
-
-
-
-/*Global*/
-html {
-    box-sizing: border-box;
-    font-size: 62.5%;  /*10px === 1rem*/
-  }
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
