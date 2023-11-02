@@ -1,5 +1,7 @@
+import { GncAppLayout } from '../../layout/GncAppLayout';
+
 export const Home = () => {
   return (
-    <h1 className="text-center">Home</h1>
+    <GncAppLayout/>
   )
 }

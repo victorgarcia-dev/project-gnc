@@ -1,9 +1,7 @@
-import { GncAppRoutes } from '../../routes/GncAppRoutes';
-
 export const Header = () => {
   return (
     <>
-       <GncAppRoutes/>
+       <h1>Header</h1>
     </>
   )
 }

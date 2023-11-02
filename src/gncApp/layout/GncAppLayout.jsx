@@ -1,9 +1,12 @@
-import { Header } from '../components/header/Header';
+import { Footer, Header, InformationServices, WorkshopInformationSection } from '../components';
 
 export const GncAppLayout = () => {
   return (
     <>
        <Header/>
+       <InformationServices/>
+       <WorkshopInformationSection/>
+       <Footer/>
     </>
 
   )
