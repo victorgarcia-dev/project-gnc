@@ -7,12 +7,14 @@ export default {
     colors:{
       'yellow-900':'#713f12',
       'yellow-600':'#d8aa23',
-      'yellow-500': '#eab308',
-      'neutral-500': '#737373',
-      'neutral-700': '#404040',
-      'neutral-900': '#171717',
+      'yellow-500':'#eab308',
+      'yellow-950':'#422006',
+      'neutral-500':'#737373',
+      'neutral-700':'#404040',
+      'neutral-900':'#171717',
       'black':'#000000',
-      'white':'#ffffff'
+      'white':'#ffffff',
+      'gray-800':'#1f2937'
     },
     extend: {
       backgroundImage: {
