@@ -8,12 +8,17 @@ export default {
       'yellow-900':'#713f12',
       'yellow-600':'#d8aa23',
       'yellow-500': '#eab308',
+      'neutral-500': '#737373',
+      'neutral-700': '#404040',
+      'neutral-900': '#171717',
       'black':'#000000',
       'white':'#ffffff'
     },
     extend: {
       backgroundImage: {
         'gnc': "url('./assets/img/gnc.jpeg')",
+        'ph': "url('./assets/img/ph.jpeg')",
+        'oblea': "url('./assets/img/oblea1.jpeg')",
       }
     },
   },
