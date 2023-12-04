@@ -1,4 +1,7 @@
-import { CheckMyStatus, Footer, Header, InformationServices, WorkshopInformationSection } from '../components';
+import { CheckMyStatus, 
+         ContactForm,
+         Header, 
+         InformationServices } from '../components';
 
 export const GncAppLayout = () => {
   return (
@@ -7,8 +10,7 @@ export const GncAppLayout = () => {
           <Header/>
           <CheckMyStatus/>
           <InformationServices/>
-          <WorkshopInformationSection/>
-          <Footer/>
+          <ContactForm/>
        </div>
     </div>
 
